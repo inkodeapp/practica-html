@@ -1,0 +1,30 @@
+:root{
+    --font-size:16px;
+    --color-white:white;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+/*header*/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    background-color: blue;
+    color: var(--color-white);
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    padding: 0px;
+}
